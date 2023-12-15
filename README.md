@@ -25,7 +25,7 @@ ubuntu 20.04
 $ wget https://raw.githubusercontent.com/madolkae/sans/main/lamp.sh &&chmod +x lamp.sh && ./lamp.sh
 ```
 
-# Thank you!
+# Thank you. 
 
 ## License
 
